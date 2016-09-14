@@ -1,0 +1,8 @@
+# Log files
+log/*
+
+# OSX Directory Cache Files
+.DS_Store
+
+# Python Byte-code Files
+*.pyc
